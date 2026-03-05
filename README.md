@@ -24,7 +24,7 @@ A VSCode extension that groups Tailwind CSS classes into readable, categorized b
 - **clsx Format**: Converts class strings into structured `clsx()` calls
 - **Variant Support**: Handles `hover:`, `md:`, `dark:`, `focus:`, etc. - classes are categorized by their base utility
 - **Arbitrary Values**: Supports `w-[100px]`, `bg-[#ff0000]`, etc.
-- **Keyboard Shortcut**: `Ctrl+Alt+G` (Windows/Linux) / `Cmd+Alt+G` (Mac)
+- **Keyboard Shortcut**: `Ctrl+K G` (Windows/Linux) / `Cmd+K G` (Mac)
 
 ## Usage
 
@@ -35,7 +35,7 @@ A VSCode extension that groups Tailwind CSS classes into readable, categorized b
    ```
 
 2. Run the command:
-   - Keyboard shortcut: `Ctrl+Alt+G` / `Cmd+Alt+G`
+   - Keyboard shortcut: `Ctrl+K G` / `Cmd+K G`
    - Or open the Command Palette (`Cmd+Shift+P` / `Ctrl+Shift+P`) and run: **Tailwind: Group Classes**
 
 3. The selected code will be transformed into:

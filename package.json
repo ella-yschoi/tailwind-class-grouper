@@ -2,7 +2,7 @@
   "name": "tailwind-class-grouper",
   "displayName": "Tailwind Class Grouper",
   "description": "Group Tailwind CSS classes into readable blocks using clsx.",
-  "version": "0.1.0",
+  "version": "0.1.2",
   "publisher": "ella-yschoi",
   "license": "MIT",
   "repository": {
@@ -38,8 +38,8 @@
     "keybindings": [
       {
         "command": "tailwind-class-grouper.groupClasses",
-        "key": "ctrl+alt+g",
-        "mac": "cmd+alt+g",
+        "key": "ctrl+k g",
+        "mac": "cmd+k g",
         "when": "editorTextFocus"
       }
     ]

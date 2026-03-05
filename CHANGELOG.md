@@ -9,5 +9,5 @@
 - 13 categories: Size, Layout, Spacing, Border, Background, Text, Effects, Interactivity, Transform, Filter, Ring/Outline, Overflow/Display, Others
 - Tailwind variant support (`hover:`, `md:`, `dark:`, etc.)
 - Arbitrary value support (`w-[100px]`, `bg-[#ff0000]`, etc.)
-- Keyboard shortcut: `Ctrl+Alt+G` (Windows/Linux) / `Cmd+Alt+G` (Mac)
+- Keyboard shortcut: `Ctrl+K G` (Windows/Linux) / `Cmd+K G` (Mac)
 - Supports both `className` and `class` attributes
